@@ -69,19 +69,19 @@ também presentes na placa.
 
 ![Alt text](Imagens/CPLD.png) 
 
-Situação de um veículo se aproximar enquanto o outro ainda está passando pela cancela.
+Funcionamento do protótipo para Gestão Digital de Acesso Veicular em situação de senha correta.
 
 ![Alt text](<Imagens/Interface de entrada liberada.png>)
 
-Situação de estacionamento cheio, mesmo com veículo detectado pelo sensor externo.
+Funcionamento do protótipo para Gestão Digital de Acesso Veicular em situação de um veículo se aproximar enquanto o outro ainda está passando pela cancela.
 
 ![Alt text](<Imagens/Interface de pare.png>)
 
-Situação de erro ao digitar a senha.
+ Funcionamento do protótipo para Gestão Digital de Acesso Veicular em situação de erro ao digitar a senha.
 
 ![Alt text](<Imagens/Interface de Erro.png>)
 
-Situação de estacionamento cheio.
+ Funcionamento do protótipo para Gestão Digital de Acesso Veicular em situação de estacionamento cheio.
 
 ![Alt text](<Imagens/Interface de estacionamento cheio.png>)
 
