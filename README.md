@@ -57,9 +57,9 @@ alguma vaga estiver disponível.
 Nesse projeto, necessitou-se elaborar três diagramas referentes a cada uma das máquinas.Abaixo será exposto um único
 diagrama geral e legendado comportando as três máquinas criadas, juntamente a uma tabela de identificação.
  
-![Alt text](<Imagens/Diagrama da maquina de estados.jpg>)
+![Alt text](Imagens/Diagrama-da-maquina-de-estados.jpg)
 
-![Alt text](<Imagens/Tabela de estados.png>)
+![Alt text](Imagens/Tabela-de-estados.png)
 
 # **Demonstração da Aplicação**
 
@@ -71,19 +71,19 @@ também presentes na placa.
 
 Funcionamento do protótipo para Gestão Digital de Acesso Veicular em situação de senha correta.
 
-![Alt text](<Imagens/Interface de entrada liberada.png>)
+![Alt text](Imagens/Interface-de-entrada-liberada.png)
 
 Funcionamento do protótipo para Gestão Digital de Acesso Veicular em situação de um veículo se aproximar enquanto o outro ainda está passando pela cancela.
 
-![Alt text](<Imagens/Interface de pare.png>)
+![Alt text](Imagens/Interface-de-pare.png)
 
  Funcionamento do protótipo para Gestão Digital de Acesso Veicular em situação de erro ao digitar a senha.
 
-![Alt text](<Imagens/Interface de Erro.png>)
+![Alt text](Imagens/Interface-de-Erro.png)
 
  Funcionamento do protótipo para Gestão Digital de Acesso Veicular em situação de estacionamento cheio.
 
-![Alt text](<Imagens/Interface de estacionamento cheio.png>)
+![Alt text](Imagens/Interface-de-estacionamento-cheio.png)
 
 
 
